@@ -1,0 +1,65 @@
+﻿@model WilesJacksonBugTracker.Repository.Domain.Bugs
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Bugs</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProjectId" class="control-label"></label>
+                <select asp-for="ProjectId" class ="form-control" asp-items="ViewBag.ProjectId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="BugPriorityId" class="control-label"></label>
+                <select asp-for="BugPriorityId" class ="form-control" asp-items="ViewBag.BugPriorityId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="BugStatusId" class="control-label"></label>
+                <select asp-for="BugStatusId" class ="form-control" asp-items="ViewBag.BugStatusId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="BugCreatedBy" class="control-label"></label>
+                <input asp-for="BugCreatedBy" class="form-control" />
+                <span asp-validation-for="BugCreatedBy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BugCreatedOn" class="control-label"></label>
+                <input asp-for="BugCreatedOn" class="form-control" />
+                <span asp-validation-for="BugCreatedOn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BugClosedBy" class="control-label"></label>
+                <input asp-for="BugClosedBy" class="form-control" />
+                <span asp-validation-for="BugClosedBy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BugClosedOn" class="control-label"></label>
+                <input asp-for="BugClosedOn" class="form-control" />
+                <span asp-validation-for="BugClosedOn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BugResolutionSummary" class="control-label"></label>
+                <textarea asp-for="BugResolutionSummary" class="form-control"></textarea>
+                <span asp-validation-for="BugResolutionSummary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

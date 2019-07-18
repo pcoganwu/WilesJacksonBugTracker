@@ -1,0 +1,17 @@
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.deps.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.runtimeconfig.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.dll
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.pdb
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.dll
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.pdb
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.RazorAssemblyInfo.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.RazorAssemblyInfo.cs
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.AssemblyInfo.cs
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.RazorTargetAssemblyInfo.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.csproj.CopyComplete
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.dll
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.pdb

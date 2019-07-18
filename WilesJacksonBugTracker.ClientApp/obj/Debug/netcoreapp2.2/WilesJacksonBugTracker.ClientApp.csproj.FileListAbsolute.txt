@@ -1,0 +1,14 @@
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.deps.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.runtimeconfig.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.dll
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.pdb
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.RazorAssemblyInfo.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.RazorAssemblyInfo.cs
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.AssemblyInfo.cs
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.RazorTargetAssemblyInfo.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.dll
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.ClientApp\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.ClientApp.pdb
