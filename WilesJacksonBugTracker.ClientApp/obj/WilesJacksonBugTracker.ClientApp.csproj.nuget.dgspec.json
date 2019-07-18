@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peter\\source\\repos\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj": {}
+    "C:\\GitHub\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peter\\source\\repos\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj": {
+    "C:\\GitHub\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj",
+        "projectUniqueName": "C:\\GitHub\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj",
         "projectName": "WilesJacksonBugTracker.ClientApp",
-        "projectPath": "C:\\Users\\Peter\\source\\repos\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj",
+        "projectPath": "C:\\GitHub\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\WilesJacksonBugTracker.ClientApp.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter\\source\\repos\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\obj\\",
+        "outputPath": "C:\\GitHub\\WilesJacksonBugTracker\\WilesJacksonBugTracker.ClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

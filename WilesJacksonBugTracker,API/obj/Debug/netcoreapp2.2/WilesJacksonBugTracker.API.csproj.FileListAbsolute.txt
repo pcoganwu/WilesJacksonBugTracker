@@ -15,3 +15,5 @@ C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\ob
 C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.csproj.CopyComplete
 C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.dll
 C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.pdb
+C:\GitHub\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.dll
+C:\GitHub\WilesJacksonBugTracker\WilesJacksonBugTracker,API\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.API.pdb

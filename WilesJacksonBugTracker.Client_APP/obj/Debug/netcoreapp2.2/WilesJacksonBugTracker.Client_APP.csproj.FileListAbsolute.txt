@@ -35,3 +35,5 @@ C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Client
 C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Client_APP\obj\Debug\netcoreapp2.2\Razor\Views\Bugs\Details.g.cshtml.cs
 C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Client_APP\obj\Debug\netcoreapp2.2\Razor\Views\Bugs\Edit.g.cshtml.cs
 C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Client_APP\obj\Debug\netcoreapp2.2\Razor\Views\Bugs\Index.g.cshtml.cs
+C:\GitHub\WilesJacksonBugTracker\WilesJacksonBugTracker.Client_APP\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Client_APP.dll
+C:\GitHub\WilesJacksonBugTracker\WilesJacksonBugTracker.Client_APP\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Client_APP.pdb

@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.deps.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.dll
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.AssemblyInfo.cs
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.runtimeconfig.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\bin\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.pdb
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.dll
+C:\Users\Peter\source\repos\WilesJacksonBugTracker\WilesJacksonBugTracker.Repository\obj\Debug\netcoreapp2.2\WilesJacksonBugTracker.Repository.pdb
